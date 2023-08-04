@@ -10,6 +10,10 @@ Hello world
 
 Sample website with plenty of files for demos
 
+Extra info
+
 ## Deployment
+
+Some deployment info
 
 ## How To Contribute
