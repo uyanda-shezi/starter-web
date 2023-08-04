@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+More stuff
+
 ## Introduction
 
 Hello world
