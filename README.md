@@ -6,7 +6,9 @@ This repository is for showing how Git and GitHub work
 
 Hello world
 
-Some intro info
+Some intro info,
+
+More intro stuff
 
 ## Purpose
 
